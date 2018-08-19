@@ -1,0 +1,176 @@
+/*headersection*/
+
+.mainsection {
+    background: #FFFFFF;
+    margin: 0 auto;
+    font-size: 14px;
+    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 150%;
+
+    margin-top: 10px;
+    box-shadow: 1px 1px 1px 1px #E9E9E9
+}
+
+/*header*/
+
+.header_section {
+    margin-top: 15px;
+
+}
+
+.logo {
+    margin-left: 65px;
+    margin-top: 20px;
+}
+
+.title {
+    margin-top: 20px;
+}
+
+.title h2 {
+    font-size: 46px;
+    font-weight: bolder;
+}
+
+.title p {
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.search_part {
+    margin-top: 20px;
+}
+
+.searchbtn {
+    margin-top: 10px;
+}
+
+.social a {
+    font-size: 26px;
+    background-color: #ECEDE9
+}
+
+.social a:hover {
+    background-color: #F7E93C;
+}
+
+/*navbar design*/
+
+.navsection {
+    margin-top: 10px;
+}
+
+.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+
+.nv ul li {
+    border-left: 1px solid #726363;
+    border-right: 1px solid #a38c8c;
+    display: block;
+    float: left;
+    position: relative;
+}
+
+.nv ul li:first-child {
+    border-left: 0px solid #f2eded;
+}
+
+.nv ul li:last-child {
+    border-right: 0px solid #d1c6c6;
+}
+
+.nv ul li a:hover,
+#active {
+    background-color: #F6AC2C;
+    color: white;
+}
+
+/*pagination*/
+
+.pagination_c {
+    background-color: #ECEDE9;
+    margin-top: 5px;
+}
+
+.pagination_c ul li {
+    font-size: 15px;
+}
+
+.pagination_c ul li a {
+    color: #84936C;
+}
+
+.pagination_c ul li a:hover {
+    text-decoration: none
+}
+
+/*slider*/
+
+/*main content*/
+
+.main_content {
+    margin-top: 15px;
+}
+
+.main_content h2 {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.main_content p {
+    font-size: 15px
+}
+
+.Technology {
+    margin-top: 15px;
+}
+
+/*technology*/
+
+.Technology h2 {
+    font-size: 25px;
+    color: green;
+}
+
+/*Radiologist*/
+
+.radiologists {
+    margin-top: 15px;
+}
+
+.radiologists h2 {
+    color: green;
+    font-size: 25px;
+}
+
+.radiologists h4 {
+    font-size: 15px
+}
+
+/*table*/
+
+.table_content {
+    margin-top: 30px;
+}
+
+/*clients*/
+
+.all_clients ul li {
+    list-style: none;
+    margin-left: -39px;
+}
+
+.all_clients ul li a {
+    text-decoration: none
+}
+
+/*contact*/
+
+.Contact h2 {
+    color: green;
+    font-size: 25px;
+}
